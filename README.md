@@ -9,12 +9,6 @@
 
 ---
 
-### 💼 Projects
-- 🔊 **FASEEH**: AI application to support speech improvement for Arabic-speaking individuals with hearing challenges.
-- 🔍 **Weapon Detection System**: Real-time object detection system using YOLOv10, YOLOv11, and VGG16.
-
----
-
 ### 🛠️ Skills
 **Languages:** Python, Java, C, SQL, PHP  
 **Front-End:** HTML, CSS, JavaScript  
