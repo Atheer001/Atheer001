@@ -41,10 +41,15 @@
 
 ---
 
-### 📜 Certifications
+### 📘 Courses
 
-- 🧠 **Machine Learning Specialization** – Coursera (Andrew Ng)  
-- 🔢 **Calculus & Linear Algebra for ML** – Coursera  
+| 📚 Course Title | 🏫 Platform | 📅 Year | ⏱️ Duration |
+|----------------|-------------|---------|-------------|
+| [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) | Coursera | 2024 | 34 hours |
+| [Supervised ML: Regression and Classification](https://www.coursera.org/learn/machine-learning) | Coursera | 2024 | 33 hours |
+| [Unsupervised Learning, Recommenders, & Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning) | Coursera | 2024 | 27 hours |
+| [Calculus for ML and Data Science](https://www.coursera.org/learn/calculus-machine-learning) | Coursera | 2024 | 26 hours |
+| [Linear Algebra for ML and Data Science](https://www.coursera.org/learn/linear-algebra-machine-learning) | Coursera | 2024 | 34 hours |
 
 ---
 
