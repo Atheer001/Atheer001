@@ -14,29 +14,34 @@
 
 ### 🚀 Skills
 
-<table>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/YOLO-black?style=for-the-badge&logo=yolo&logoColor=white"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/VGG-purple?style=for-the-badge"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/Teamwork-4CAF50?style=for-the-badge"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/Problem--Solving-blue?style=for-the-badge"/></td>
-  </tr>
-</table>
+#### 💻 Programming Languages & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+#### 🤖 AI & ML
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLO-black?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VGG-purple?style=for-the-badge"/>
+</p>
+
+#### 🌟 Soft Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/Teamwork-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problem--Solving-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Leadership-FFD700?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Time%20Management-FF9800?style=for-the-badge"/>
+</p>
 
 
 ---
